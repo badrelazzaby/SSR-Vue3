@@ -29,7 +29,7 @@
     </ul>
   </div>
 </template>
-
+var = 
 <script>
 export default {
   name: 'HelloWorld',
